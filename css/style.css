@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.center{
+    text-align: center;
+}
+.header{
+    background-color: #9ba8a8;
+    padding: 20px;
+}
+.logo{
+    width: 30%; 
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav{
+    width: 70%;
+    display: inline-block;
+    margin-left: -4px;
+    vertical-align: middle;
+}
+.nav ul{
+    text-align: right;
+    list-style: none;
+}
+.nav li{
+    display: inline-block;
+    margin: 0 40px;
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+}
+.section-1{
+    height: 300px;
+    background-color: #c8cec4;
+    padding: 60px;
+}
+.content-1{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.content-1 a{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 150px;
+    margin-top: 20px;
+    text-decoration: none;
+    
+}
+.img-1{
+    width: 50%;
+    margin-left: -4px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+    padding-right: 150px;
+    overflow: hidden;  
+}
+.section-1 p{
+    width: 300px;
+    margin-left: 150px;
+}
+.section-1 h2{
+    margin-left: 150px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.section-2{
+    height: 300px;
+    background-color: #ebebe7;
+    padding: 60px;
+}
+.content-2{
+    width: 50%;
+    margin-left: -4px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.img-2{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;  
+    padding-left: 150px;
+    overflow: hidden;
+}
+.content-2 a{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 150px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.section-2 p{
+    float: right;
+    width: 300px;
+    text-align: right;  
+    margin-right: 150px;
+}
+.section-2 h2{  
+    margin-right: 150px;
+    text-align: right;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.section-3{
+    height: 300px;
+    background-color: #c8cec4;
+    padding: 60px;
+
+}
+.content-3{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.content-3 a{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 150px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.img-3{
+    width: 50%;
+    margin-left: -4px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+    padding-right: 150px;   
+    overflow: hidden; 
+}
+.section-3 p{
+    width: 300px;
+    margin-left: 150px;
+}
+.section-3 h2{
+    margin-left: 150px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.section-4{
+    height: 300px;
+    background-color: #ebebe7;
+    padding: 60px;
+}
+.content-4{
+    width: 50%;
+    margin-left: -4px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.content-4 a{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 150px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.img-4{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;  
+    padding-left: 150px;
+    overflow: hidden;
+}
+.section-4 p{
+    float: right;
+    width: 300px;
+    text-align: right;  
+    margin-right: 150px;
+}
+.section-4 h2{
+    margin-right: 150px;
+    text-align: right;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+}
+.icon-1{
+    width: 30%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 60px;
+}
+.icon-1 img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon-1 a  {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+.icon-2{
+    width: 30%;
+    vertical-align: middle;
+    display: inline-block;
+    padding-top: 60px;
+}
+.icon-2 img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon-2 a{
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    text-decoration: none;
+}
+.icon-3{
+    width: 30%;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: right;
+    padding-top: 60px;
+}
+.icon-3 img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon-3 a  {
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
